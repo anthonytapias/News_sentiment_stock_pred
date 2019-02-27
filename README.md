@@ -1,1 +1,2 @@
-# News_sentiment_stock_pred
+# Predict Short Term Stock Price Movement from the News
+
